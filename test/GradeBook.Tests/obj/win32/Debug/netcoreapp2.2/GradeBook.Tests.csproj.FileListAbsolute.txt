@@ -1,0 +1,17 @@
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.Tests.deps.json
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.json
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.dev.json
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.Tests.dll
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\bin\win32\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.csprojAssemblyReference.cache
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfoInputs.cache
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CopyComplete
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.dll
+C:\Users\E73722\pluralsight\Csharp_fundamentals\gradebook\test\GradeBook.Tests\obj\win32\Debug\netcoreapp2.2\GradeBook.Tests.pdb
