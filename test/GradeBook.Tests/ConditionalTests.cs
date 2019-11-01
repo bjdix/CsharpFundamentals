@@ -8,8 +8,8 @@ namespace GradeBook.Tests
         [Fact]
         public void GreaterThan()
         {
-            var book = new Book("");
-            book.AddGrade(105);
+            var book = new InMemoryBook("UnitTest");
+            book.AddGrade(100);
         }
     }
 }
